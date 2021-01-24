@@ -1,0 +1,25 @@
+{
+	"name": "Impero Teutonico",
+	"type": "teuton",
+	"armyTypes": [
+		{
+			"name": "Guerriero",
+			"atk": 6,
+			"def": 10,
+			"speed": 11,
+			"units": 0
+		},{
+			"name": "Lanciere",
+			"atk": 7,
+			"def": 7,
+			"speed": 14,
+			"units": 0
+		},{
+			"name": "Soldato a cavallo",
+			"atk": 8,
+			"def": 5,
+			"speed": 22,
+			"units": 0
+		}
+	]
+}

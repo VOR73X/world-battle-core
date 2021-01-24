@@ -1,0 +1,14 @@
+{
+  "name": "battle-world-core",
+  "version": "0.0.1",
+  "description": "Battle World core",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jean Paul Sanchez <j.sanchez@webitart.com>",
+  "license": "ISC",
+  "dependencies": {
+    "md5": "^2.3.0"
+  }
+}

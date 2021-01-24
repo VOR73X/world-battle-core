@@ -1,0 +1,26 @@
+
+{
+	"name": "Impero Romano",
+	"type": "roman",
+	"armyTypes": [
+		{
+			"name": "Soldato",
+			"atk": 9,
+			"def": 9,
+			"speed": 16,
+			"units": 0
+		},{
+			"name": "Legionario",
+			"atk": 8,
+			"def": 13,
+			"speed": 11,
+			"units": 0
+		},{
+			"name": "Guerriero a cavallo",
+			"atk": 9,
+			"def": 8,
+			"speed": 22,
+			"units": 0
+		}
+	]
+}
